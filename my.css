@@ -9,6 +9,8 @@ body{
     display: flex;
     justify-content: start;
     background-image: url(/ks.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #bb{
@@ -35,7 +37,7 @@ a {
     position: relative;
     display: inline-block;
     padding: 25px 30px;
-    margin: 20px 460px;
+    margin: 20px 20px;
     color: #00ff9d;
     font-size: 24px;
     text-decoration: none;
